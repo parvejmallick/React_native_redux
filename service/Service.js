@@ -4,5 +4,6 @@ export default class Service {
 
 	static test = () => {
 		
+		
 	};
 }
